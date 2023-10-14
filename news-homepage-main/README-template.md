@@ -32,8 +32,8 @@ The challenge was to create a user-friendly and intuitive news homepage that agg
 
 ### Links
 
-- [Live Demo](#) - Insert the link to the live demo.
-- [Repository](#) - Insert the link to the GitHub repository.
+- [https://frontend-mentor-news-homepage-black.vercel.app/](#) - Insert the link to the live demo.
+- [https://github.com/jelilking/Frontend-Mentor-News-homepage](#) - Insert the link to the GitHub repository.
 
 ## My Process
 
@@ -52,12 +52,13 @@ Throughout this project, I gained valuable insights into news aggregation, front
 ## Author
 
 - Name: [Jelilking]
-- GitHub: [Your GitHub Profile](#)
+- GitHub: [https://github.com/jelilking](#)
 
 ## Codes I am Proud Of
 
-```html
+``html`
 <picture id="home">
+
   <source
     media="(min-width: 376px)"
     srcset="/news-homepage-main/assets/images/image-web-3-desktop.jpg" />
